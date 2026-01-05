@@ -361,4 +361,5 @@ plot_lollipop_bias(
     df_mc,
     approach="A",
     title="Baseline (SRS): Bias vs prevalence"
+
 )
