@@ -418,4 +418,5 @@ plt.title("Bias heatmap over ML targets (median over all scenarios)")
 plt.xlabel(r"ML target FPR ($\beta$)")
 plt.ylabel(r"ML target TPR ($\alpha$)")
 plt.tight_layout()
+
 plt.show()
